@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "homepage": "https://github.com/letantai3001180588",
-  "private": true,
+  "private": "false",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@react-three/drei": "^9.65.5",
